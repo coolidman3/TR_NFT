@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.nft">
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/hehe"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/hehe"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.NFT">
+        <activity
+            android:name=".profile"
+            android:exported="false" />
+        <activity
+            android:name=".detcoll"
+            android:exported="false" />
+        <activity
+            android:name=".gallery"
+            android:exported="false" />
+        <activity
+            android:name=".detail"
+            android:exported="false" />
+        <activity
+            android:name=".Add"
+            android:exported="false" />
+        <activity
+            android:name=".mainmenu"
+            android:exported="false" />
+        <activity
+            android:name=".Signin"
+            android:exported="false" />
+        <activity
+            android:name=".Register"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

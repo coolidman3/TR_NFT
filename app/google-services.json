@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "659632366968",
+    "firebase_url": "https://fir-176e1-default-rtdb.firebaseio.com",
+    "project_id": "fir-176e1",
+    "storage_bucket": "fir-176e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659632366968:android:59858732c63df3fc55948d",
+        "android_client_info": {
+          "package_name": "com.chalvin.firebasee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659632366968-o5vd00qs2f6r6njgi632bjsi997ova5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_oCGU28yj51912qBSujuaYhMRDKjR8H4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659632366968-o5vd00qs2f6r6njgi632bjsi997ova5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659632366968:android:1e5eed14411e22e055948d",
+        "android_client_info": {
+          "package_name": "com.tugas.tr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659632366968-o5vd00qs2f6r6njgi632bjsi997ova5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_oCGU28yj51912qBSujuaYhMRDKjR8H4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659632366968-o5vd00qs2f6r6njgi632bjsi997ova5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

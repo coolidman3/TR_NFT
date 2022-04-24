@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#17181F"
+    tools:context=".Add">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="14dp"
+        >
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/poppins_bold"
+                android:layout_marginLeft="38dp"
+                android:layout_marginTop="70dp"
+                android:letterSpacing="0.1"
+                android:text="Sell your best NFT."
+                android:textAllCaps="false"
+                android:textColor="#FFFFFF"
+                android:textSize="28sp"
+                />
+
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/poppins_medium"
+                android:layout_marginLeft="38dp"
+                android:letterSpacing="0.1"
+                android:text="And get the result"
+                android:textAllCaps="false"
+                android:textColor="#FFFFFF"
+                android:textSize="28sp" />
+<RelativeLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="20dp"
+    android:layout_marginLeft="130dp">
+    <ImageView
+
+        android:id="@+id/avatar"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:background="#A1FFFFFF"
+        android:scaleType="fitCenter"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/ic_baseline_image_24"
+        />
+
+</RelativeLayout>
+
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:boxBackgroundColor="@color/white"
+            app:boxBackgroundMode="outline"
+            android:layout_marginTop="20dp"
+            >
+            <EditText
+                android:id="@+id/name"
+                android:background="@drawable/custominput"
+                android:ems="10"
+                android:hint="Name"
+
+                android:inputType="textPersonName"
+                android:textColor="#A1FFFFFF"
+                android:textColorHint="#A1FFFFFF"
+                tools:ignore="SpeakableTextPresentCheck"
+                android:layout_width="316dp"
+                android:layout_height="50dp"
+                />
+        </com.google.android.material.textfield.TextInputLayout>
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="10dp"
+            app:boxBackgroundColor="@color/white"
+            app:boxBackgroundMode="outline">
+
+            <EditText
+                android:id="@+id/email"
+                android:layout_width="316dp"
+                android:layout_height="50dp"
+                android:layout_marginTop="-30dp"
+                android:hint="Price"
+                android:inputType="number"
+                tools:ignore="SpeakableTextPresentCheck"
+                android:background="@drawable/custominput"
+                android:ems="10"
+                android:textColorHint="#A1FFFFFF"
+                android:textColor="#A1FFFFFF"
+                />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.button.MaterialButtonToggleGroup
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="15dp">
+            <Button
+                android:gravity="center"
+                android:id="@+id/btn_save"
+                android:layout_width="316dp"
+                android:layout_height="63dp"
+                android:text="Add"
+                android:backgroundTint="#FFFFFF"
+                android:fontFamily="@font/poppins_semibold"
+                android:textAllCaps="false"
+                android:textColor="#323038"
+                android:textSize="16sp"
+                app:cornerRadius="15dp"
+               />
+        </com.google.android.material.button.MaterialButtonToggleGroup>
+    </LinearLayout>
+</ScrollView>

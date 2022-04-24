@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Project/TR/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3394736842105263" />
+        <entry key="..\:/Project/TR/app/src/main/res/drawable/custominput.xml" value="0.3394736842105263" />
+        <entry key="..\:/Project/TR/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.3394736842105263" />
+        <entry key="..\:/Project/TR/app/src/main/res/drawable/ic_baseline_collections_24.xml" value="0.3394736842105263" />
+        <entry key="..\:/Project/TR/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.3394736842105263" />
+        <entry key="..\:/Project/TR/app/src/main/res/drawable/ic_baseline_image_24.xml" value="0.3394736842105263" />
+        <entry key="..\:/Project/TR/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.3394736842105263" />
+        <entry key="..\:/Project/TR/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3394736842105263" />
+        <entry key="..\:/Project/TR/app/src/main/res/drawable/ic_menu_camera.xml" value="0.3394736842105263" />
+        <entry key="..\:/Project/TR/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.3394736842105263" />
+        <entry key="..\:/Project/TR/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.3394736842105263" />
+        <entry key="..\:/Project/TR/app/src/main/res/layout/Login.xml" value="0.29846014492753625" />
+        <entry key="..\:/Project/TR/app/src/main/res/layout/activity_add.xml" value="0.18" />
+        <entry key="..\:/Project/TR/app/src/main/res/layout/activity_detail.xml" value="0.2" />
+        <entry key="..\:/Project/TR/app/src/main/res/layout/activity_detcoll.xml" value="0.22" />
+        <entry key="..\:/Project/TR/app/src/main/res/layout/activity_gallery.xml" value="0.18070175438596492" />
+        <entry key="..\:/Project/TR/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Project/TR/app/src/main/res/layout/activity_main2.xml" value="0.32587719298245615" />
+        <entry key="..\:/Project/TR/app/src/main/res/layout/activity_main_page.xml" value="0.21875" />
+        <entry key="..\:/Project/TR/app/src/main/res/layout/activity_mainmenu.xml" value="0.33" />
+        <entry key="..\:/Project/TR/app/src/main/res/layout/activity_navbar.xml" value="0.2696335078534031" />
+        <entry key="..\:/Project/TR/app/src/main/res/layout/activity_profile.xml" value="0.21" />
+        <entry key="..\:/Project/TR/app/src/main/res/layout/activity_register.xml" value="0.38697916666666665" />
+        <entry key="..\:/Project/TR/app/src/main/res/layout/activity_signin.xml" value="0.38697916666666665" />
+        <entry key="..\:/Project/TR/app/src/main/res/layout/activity_sinup.xml" value="0.21875" />
+        <entry key="..\:/Project/TR/app/src/main/res/layout/app_bar_main.xml" value="0.32587719298245615" />
+        <entry key="..\:/Project/TR/app/src/main/res/layout/content_main.xml" value="0.32587719298245615" />
+        <entry key="..\:/Project/TR/app/src/main/res/layout/fragment_gallery.xml" value="0.32587719298245615" />
+        <entry key="..\:/Project/TR/app/src/main/res/layout/fragment_home.xml" value="0.32587719298245615" />
+        <entry key="..\:/Project/TR/app/src/main/res/layout/fragment_profile.xml" value="0.2444078947368421" />
+        <entry key="..\:/Project/TR/app/src/main/res/layout/fragment_slideshow.xml" value="0.32587719298245615" />
+        <entry key="..\:/Project/TR/app/src/main/res/layout/head.xml" value="0.32587719298245615" />
+        <entry key="..\:/Project/TR/app/src/main/res/layout/login.xml" value="0.29846014492753625" />
+        <entry key="..\:/Project/TR/app/src/main/res/layout/nav_header_main.xml" value="0.32587719298245615" />
+        <entry key="..\:/Project/TR/app/src/main/res/layout/row_nft.xml" value="0.3743093922651934" />
+        <entry key="..\:/Project/TR/app/src/main/res/menu/activity_main_drawer.xml" value="0.32587719298245615" />
+        <entry key="..\:/Project/TR/app/src/main/res/menu/bott_nav_menu.xml" value="0.32587719298245615" />
+        <entry key="..\:/Project/TR/app/src/main/res/menu/bottom_nav_menu.xml" value="0.13453947368421051" />
+        <entry key="..\:/Project/TR/app/src/main/res/menu/head_menu.xml" value="0.32587719298245615" />
+        <entry key="..\:/Project/TR/app/src/main/res/menu/main_activity2.xml" value="0.32587719298245615" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.29846014492753625" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

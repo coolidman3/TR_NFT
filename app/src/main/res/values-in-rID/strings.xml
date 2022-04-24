@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NFT</string>
+    <string name="Reg">Daftar</string>
+    <string name="Sign" translatable="false">Masuk</string>
+    <string name="does">Tidak punya akun?</string>
+    <string name="login">Masuk</string>
+    <string name="alre">Sudah punya Akun?</string>
+    <string name="name">Nama</string>
+    <string name="price">Harga</string>
+    <string name="Add">Tambah</string>
+    <string name="act">Aktivitas item</string>
+    <string name="pri">Harga</string>
+    <string name="nam">Nama</string>
+    <string name="log">Keluar</string>
+    <string name="buy">Beli</string>
+    <string name="down">Unduh</string>
+    <string name="sen">Jual</string>
+    <string name="res">Gallery Saya</string>
+    <string name="prof">Profil</string>
+</resources>
